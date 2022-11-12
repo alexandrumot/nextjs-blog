@@ -20,7 +20,7 @@ export default function Home({ allPostsData }) {
     <Layout home>
       <div className="container">
         <Head>
-          <title>Create Next App</title>
+          <title>Alex Moț</title>
           <link rel="icon" href="/favicon.ico" />
         </Head>
 
